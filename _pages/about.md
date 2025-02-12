@@ -8,11 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Center for Mathematical Sciences, Lund University, and
-Arm Research. My research is funded by the Wallenberg AI, Autonomous Systems and Software Program (WASP)
+I am a machine learning engineer at Arm. I was previously an industrial PhD student at Arm and Lund University, in collaboration with the Wallenberg AI, Autonomous Systems and Software Program (WASP).
 
-My research interests include
-
-1. Geometric deep learning with applications in computer vision, SLAM and autonomous driving.
-1. Ordinal regression techniques for deep learning.
-1. Localization problems in sensor networks.
+My research interests include machine learning for computer vision and audio processing. You can find my publications on my [Google scholar profile](https://scholar.google.com/citations?user=8ajzhYYAAAAJ).
