@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Axel Berg"
 title_separator          : "-"
 name                     : &name "Axel Berg"
-description              : &description "PhD Student and Research Engineer"
+description              : &description "Machine learning engineer"
 url                      : https://axeber01.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "axeber01/axeber01.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Axel Berg"
   avatar           : "https://avatars.githubusercontent.com/axeber01"
-  bio              : "Machine Learning Researcher at Arm Research/Lund University"
+  bio              : "Machine learning engineer at Arm"
   location         : "Sweden"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
